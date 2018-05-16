@@ -48,5 +48,5 @@ def reconvertFlavors(id):
 	print ("Done", id)
 	return
 
-for x in flavorsArray:
+for x in u flavorsArray:
 	reconvertFlavors(x)
